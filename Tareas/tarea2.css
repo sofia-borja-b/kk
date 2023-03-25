@@ -1,0 +1,28 @@
+h1 {
+  text-shadow: 10px 10px burlywood;
+}
+
+#creo {
+  background-color: yellow;
+}
+
+#que {
+  color: green;
+}
+
+#me,
+#estoy {
+  background-color: black;
+  color: white;
+}
+
+#volviendo,
+#absurdamente {
+  color: blue;
+  text-transform: uppercase;
+}
+
+#loco {
+  font-size: 1cm;
+  text-shadow: 10px 10px turquoise;
+}
